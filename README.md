@@ -1,6 +1,6 @@
 # Sentifica 🧠
 
-Sentifica merupakan sebuah _website_ yang dibuat sebagai hasil _project_ tugas mata kuliah Kecerdasan Artifisial. _Website_ ini dapat menganalisis sentimen dari teks yang dimasukkan. _Project_ ini sudah di-_deploy_ pada _vercel_, dan dapat dilihat pada [sentifica.vercel.app](sentifica.vercel.app)
+Sentifica merupakan sebuah _website_ yang dibuat sebagai hasil _project_ tugas mata kuliah Kecerdasan Artifisial. _Website_ ini dapat menganalisis sentimen dari teks yang dimasukkan.
 
 #### Kelompok Bika Ambon Ci Suti
 
