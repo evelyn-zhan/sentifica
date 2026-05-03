@@ -27,6 +27,7 @@ Sentifica merupakan sebuah _website_ yang dibuat sebagai hasil _project_ tugas m
 #### Cara Menjalankan _Project_ Ini ▶️
 
 Untuk melihat hasil dari _project_ ini, Anda dapat langsung mengunjungi [sentifica.vercel.app](sentifica.vercel.app)
+
 **⚠️ Latest Update: Model service untuk _project_ ini sudah dimatikan sehingga hanya bisa dijalankan secara lokal dengan mengunduh repository ini.**
 
 Untuk menjalankannya pada _localhost_, lakukan hal-hal berikut:
