@@ -20,14 +20,16 @@ Sentifica merupakan sebuah _website_ yang dibuat sebagai hasil _project_ tugas m
 - Evelyn: Merancang API agar teks yang dikirim dari Frontend dapat diteruskan ke model untuk dianalisis.
 
 3. Model 🤖
-- Elviola Mahayana: Membantu dalam mengumpulkan _dataset_ serta membuat model dengan algoritma _Naive Bayes_ dan _Logistic Regression_
-- Nadia Narda: Membantu dalam mengumpulkan _dataset_ serta membuat model dengan algoritma _Naive Bayes_ dan _Logistic Regression_
+- Evelyn: Membuat model kecerdasan buatan dengan algoritma _Naive Bayes_ untuk memprediksi sentimen kalimat.
+- Elviola Mahayana: Membantu dalam mengumpulkan _dataset_ serta membuat model dengan algoritma _Logistic Regression_.
+- Nadia Narda: Membantu dalam mengumpulkan _dataset_.
 
 #### Cara Menjalankan _Project_ Ini ▶️
 
 Untuk melihat hasil dari _project_ ini, Anda dapat langsung mengunjungi [sentifica.vercel.app](sentifica.vercel.app)
+**⚠️ Latest Update: Model service untuk _project_ ini sudah dimatikan sehingga hanya bisa dijalankan secara lokal dengan mengunduh repository ini.**
 
-Namun, jika ingin dijalankan pada _localhost_, maka lakukan hal-hal berikut:
+Untuk menjalankannya pada _localhost_, lakukan hal-hal berikut:
 
 **Menjalankan sisi Frontend**
 ```
